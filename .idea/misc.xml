@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/This PC/Downloads/QLSV_sqlite/QLSV_sqlite/app/src/main/res/layout/activity_add.xml" value="0.17255434782608695" />
-        <entry key="..\:/Users/This PC/Downloads/QLSV_sqlite/QLSV_sqlite/app/src/main/res/layout/view_item_sinhvien.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/This PC/AndroidStudioProjects/SQLiteSV/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/This PC/AndroidStudioProjects/SQLiteSV/app/src/main/res/layout/activity_sinhvien.xml" value="0.2384428223844282" />
+        <entry key="..\:/Users/This PC/AndroidStudioProjects/SQLiteSV/app/src/main/res/layout/dialoglopcustom.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/This PC/AndroidStudioProjects/SQLiteSV/app/src/main/res/layout/dialogsinhviencustom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/This PC/AndroidStudioProjects/SQLiteSV/app/src/main/res/layout/layout_sinhvienitem.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
